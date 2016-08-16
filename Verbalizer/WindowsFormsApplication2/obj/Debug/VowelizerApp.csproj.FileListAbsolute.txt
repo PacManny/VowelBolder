@@ -1,0 +1,22 @@
+C:\Users\eromero\Documents\Visual Studio 2015\Projects\Verbalizer\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\eromero\Documents\Visual Studio 2015\Projects\Verbalizer\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\eromero\Documents\Visual Studio 2015\Projects\Verbalizer\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\eromero\Documents\Visual Studio 2015\Projects\Verbalizer\WindowsFormsApplication2\obj\Debug\VowelizerApp.Vowelizer.resources
+C:\Users\eromero\Documents\Visual Studio 2015\Projects\Verbalizer\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\eromero\Documents\Visual Studio 2015\Projects\Verbalizer\WindowsFormsApplication2\obj\Debug\VowelizerApp.csproj.GenerateResource.Cache
+C:\Users\eromero\Documents\Visual Studio 2015\Projects\Verbalizer\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\eromero\Documents\Visual Studio 2015\Projects\Verbalizer\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\eromero\Documents\Visual Studio 2015\Projects\Verbalizer\WindowsFormsApplication2\obj\Debug\VowelizerApp.csprojResolveAssemblyReference.cache
+C:\Users\eromero\Documents\Visual Studio 2015\Projects\Backup\Verbalizer\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\eromero\Documents\Visual Studio 2015\Projects\Backup\Verbalizer\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\eromero\Documents\Visual Studio 2015\Projects\Backup\Verbalizer\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\eromero\Documents\Visual Studio 2015\Projects\Backup\Verbalizer\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\eromero\Documents\Visual Studio 2015\Projects\Backup\Verbalizer\WindowsFormsApplication2\bin\Debug\VowelizerFormsApplication.exe.config
+C:\Users\eromero\Documents\GitHub\VowelBolder\Verbalizer\WindowsFormsApplication2\bin\Debug\VowelizerFormsApplication.exe.config
+C:\Users\eromero\Documents\GitHub\VowelBolder\Verbalizer\WindowsFormsApplication2\bin\Debug\VowelizerFormsApplication.exe
+C:\Users\eromero\Documents\GitHub\VowelBolder\Verbalizer\WindowsFormsApplication2\bin\Debug\VowelizerFormsApplication.pdb
+C:\Users\eromero\Documents\GitHub\VowelBolder\Verbalizer\WindowsFormsApplication2\obj\Debug\VowelizerApp.Vowelizer.resources
+C:\Users\eromero\Documents\GitHub\VowelBolder\Verbalizer\WindowsFormsApplication2\obj\Debug\VowelizerApp.Properties.Resources.resources
+C:\Users\eromero\Documents\GitHub\VowelBolder\Verbalizer\WindowsFormsApplication2\obj\Debug\VowelizerApp.csproj.GenerateResource.Cache
+C:\Users\eromero\Documents\GitHub\VowelBolder\Verbalizer\WindowsFormsApplication2\obj\Debug\VowelizerFormsApplication.exe
+C:\Users\eromero\Documents\GitHub\VowelBolder\Verbalizer\WindowsFormsApplication2\obj\Debug\VowelizerFormsApplication.pdb
